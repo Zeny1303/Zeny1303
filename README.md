@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Sneha</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm a passionate **4th-year Computer Science Engineering student** specializing in **Data Science** with a strong focus on **AI** and **Machine Learning**.</h3>
+<h1 align="center">Hi, I'm Sneha</h1>
+<h3 align="center">Welcome to my GitHub profile! I'm a passionate 4th-year Computer Science Engineering student specializing in Data Science with a strong focus on AI and Machine Learning.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeny1303&label=Profile%20views&color=0e75b6&style=flat" alt="zeny1303" /> </p>
 
