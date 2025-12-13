@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeny1303&label=Profile%20views&color=0e75b6&style=flat" alt="zeny1303" /> </p>
 
-- 🔭 I’m currently working on [StudyMate.AI](https://github.com/Zeny1303/StudyMate.AI)
+- 🔭 I’m currently working on [StudyMate.AI](https://github.com/Zeny1303/StudyMate)
 
 - 🌱 I’m currently learning **LLMs, Gen AI**
 
