@@ -91,7 +91,7 @@
 - ✅ Performed data preprocessing, feature extraction, and model evaluation
 - ✅ Trained **CNN-based classifiers** using TensorFlow and Keras
 - ✅ Evaluated models using precision, recall, F1-score, and confusion matrices
-- ✅ Delivered AI solution in a 4-member team under strict timelines
+- ✅ Delivered an AI solution in a 4-member team under strict timelines
 
 ---
 
@@ -107,7 +107,7 @@
 - ⚡ Developed automated **GitHub ingestion pipelines** with AST parsing and webhooks, reducing manual indexing effort by **65%**
 - 💡 Optimized LLM inference and RAG pipelines, achieving **38% latency reduction** and supporting **100+ concurrent queries**
 
-[🔗 View Project](#)
+[🔗 View Project](https://github.com/Zeny1303/AI-Codebase-Assistant)
 
 ---
 
@@ -121,7 +121,7 @@
 - 🔍 Built an **auto-complete search and filtering system** integrated with REST APIs for real-time event retrieval
 - 📱 Designed **responsive, mobile-first UI components** using React and Tailwind CSS
 
-[🔗 View Project](#)
+[🔗 View Project](https://github.com/Zeny1303/Campus-Connection)
 
 ---
 
@@ -140,18 +140,16 @@
 
 ---
 
+
 ## 📊 GitHub Stats
+
 <div align="center">
-  
-![Sneha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zeny1303&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zeny1303&theme=tokyonight&hide_border=true)
+<img src="https://awesome-github-stats.azurewebsites.net/user-stats/Zeny1303?cardType=octocat&theme=tokyonight&preferLogin=false" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeny1303&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeny1303&theme=tokyonight&hide_border=true" />
 
 </div>
-
----
 
 ---
 
