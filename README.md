@@ -73,7 +73,7 @@
 
 ---
 
-## 💼 Professional Experience
+## 💼 Experience
 
 ### 🔹 Software Engineer Intern
 **XRG Consulting Private Limited** | Hyderabad, India | *Sept 2025 – Nov 2025*
