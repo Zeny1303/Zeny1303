@@ -141,15 +141,17 @@
 ---
 
 ## 📊 GitHub Stats
+<div align="center">
+  
+![Sneha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zeny1303&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Zeny1303&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeny1303&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zeny1303&theme=tokyonight&hide_border=true)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zeny1303&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zeny1303&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+
+</div>
+
+---
 
 ---
 
