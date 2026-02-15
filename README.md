@@ -94,36 +94,6 @@
 
 ---
 
-## 🎯 Featured Projects
-
-### 🤖 AI Codebase Assistant
-**Tech Stack:** LangChain • FAISS • OpenAI • HuggingFace • React • FastAPI • PostgreSQL
-
-🔥 Built a **full-stack generative AI system** using React.js, FastAPI, and LangChain for semantic code search across **5,000+ files**
-
-**Key Achievements:**
-- 🚀 Implemented **hybrid retrieval** (BM25 + vector search) with FAISS and PostgreSQL metadata, improving query accuracy by **42%**
-- ⚡ Developed automated **GitHub ingestion pipelines** with AST parsing and webhooks, reducing manual indexing effort by **65%**
-- 💡 Optimized LLM inference and RAG pipelines, achieving **38% latency reduction** and supporting **100+ concurrent queries**
-
-[🔗 View Project](https://github.com/Zeny1303/AI-Codebase-Assistant)
-
----
-
-### 🎓 Campus Connection
-**Tech Stack:** React • FastAPI • Clerk • PostgreSQL • Tailwind CSS
-
-🎉 Developed a **campus-focused event discovery platform** enabling students to explore and register for college events
-
-**Key Features:**
-- 🔐 Implemented **secure authentication** and role-based access using Clerk for students and organizers
-- 🔍 Built an **auto-complete search and filtering system** integrated with REST APIs for real-time event retrieval
-- 📱 Designed **responsive, mobile-first UI components** using React and Tailwind CSS
-
-[🔗 View Project](https://github.com/Zeny1303/Campus-Connection)
-
----
-
 ## 🏆 Achievements & Certifications
 
 🥇 **Oracle Cloud Infrastructure (OCI) Generative AI Certified Professional (2025)**  
