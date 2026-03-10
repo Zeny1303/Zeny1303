@@ -46,7 +46,7 @@
 ### ⚡ Real-Time & Async
 <p>
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django_Channels-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  
 
 </p>
 
