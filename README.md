@@ -37,8 +37,7 @@
 
 ### ⚙️ Backend Development
 <p>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django_REST_Framework-ff1709?style=for-the-badge&logo=django&logoColor=white" />
+
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
@@ -48,8 +47,7 @@
 <p>
   <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
   <img src="https://img.shields.io/badge/Django_Channels-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white" />
+
 </p>
 
 ### 🗄️ Databases & Cloud
@@ -57,8 +55,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AWS_S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+
 </p>
 
 ### 🤖 Generative AI & ML
@@ -71,15 +68,7 @@
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
 </p>
 
-### 🛠️ DevOps & Tools
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
-  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
+
 
 ---
 
@@ -109,10 +98,7 @@
 
 ```text
 React + Tailwind CSS         ──▶  Modern, responsive UIs
-Django + DRF                 ──▶  Robust REST APIs & admin systems
 FastAPI                      ──▶  High-performance async microservices
-WebSockets + Django Channels ──▶  Real-time notifications & live features
-Redis + Celery               ──▶  Task queues, caching & pub/sub
 PostgreSQL                   ──▶  Relational data modeling
 RAG + LangChain              ──▶  Production AI pipelines
 ```
@@ -151,16 +137,6 @@ RAG + LangChain              ──▶  Production AI pipelines
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zeny1303&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 </p>
-
----
-
-## 🎯 What I'm Currently Working On
-
-- 🔭 Building **full-stack applications** with React, Django, and real-time WebSocket features
-- 🌱 Learning **MLOps** and **scalable system design**
-- 👯 Looking to collaborate on **Full Stack** and **Generative AI** projects
-- 💬 Ask me about **Django, DRF, FastAPI, React, WebSockets, Redis, or RAG systems**
-- 📫 Reach me at: **snehakashyap9920@gmail.com**
 
 ---
 
