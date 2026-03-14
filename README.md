@@ -1,8 +1,9 @@
+
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sneha+%F0%9F%91%8B;Software+Developer;Full+Stack+Engineer;Generative+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sneha+%F0%9F%91%8B;Software+Developer;Full+Stack+Engineer" alt="Typing SVG" />
 </div>
 
-<h3 align="center">🎓 CS Engineering Student | 🛠️ Software Developer | 💡 Generative AI Explorer</h3>
+<h3 align="center">🎓 CS Engineering Student | 🛠️ Software Developer | Full Stack Developer </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/sneha1309"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -12,111 +13,95 @@
 
 ---
 
-## 👩‍💻 About Me
+## About
 
-🎯 Hi there! I'm **Sneha** — a **Software Developer** and **Computer Science & Data Science** student specializing in **Full Stack Development and Generative AI**. Currently pursuing my B.Tech at BBD Institute of Technology and Management (AKTU).
+Full-stack engineer with hands-on experience building **scalable APIs, real-time systems, and AI-powered platforms**. I focus on designing **clean backend architectures, low-latency services, and modern web applications** using React and Python-based frameworks.
 
-🌟 I build **scalable, production-grade web applications** with clean REST APIs, real-time features, and modern frontend interfaces. I love turning complex problems into elegant, maintainable systems!
+My work sits at the intersection of **full-stack engineering and generative AI**, where I integrate LLMs into practical products such as interview simulators and developer tools.
 
-📍 **Based in:** Lucknow, Uttar Pradesh  
-🎓 **Graduation:** June 2026  
-🏆 **Certifications:** Oracle Cloud Infrastructure (OCI) Generative AI Professional
+I enjoy solving complex engineering problems and turning ideas into **production-ready systems**.
 
----
-
-## 🚀 My Skills
-
-### 🖥️ Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
-### ⚙️ Backend Development
-<p>
-
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-</p>
-
-### ⚡ Real-Time & Async
-<p>
-  <img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
-  
-
-</p>
-
-### 🗄️ Databases & Cloud
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge" />
-
-</p>
-
-### 🤖 Generative AI & ML
-<p>
-  <img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white" />
-  <img src="https://img.shields.io/badge/LlamaIndex-000000?style=for-the-badge&logo=meta&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-</p>
-
-
+| APIs Shipped | API Latency Reduced | LeetCode Problems | Kaggle Rank |
+|:---:|:---:|:---:|:---:|
+| 10+ | 25% | 500+ | 19 / 1,090 |
 
 ---
 
-## 💼 Experience
 
-### 🔹 Software Engineer Intern
-**XRG Consulting Private Limited** | Hyderabad, India | *Sept 2025 – Nov 2025*
 
-- ✅ Delivered **6+ production-grade REST APIs** using FastAPI supporting 3 core business workflows
-- ✅ Converted requirements into **scalable service-layer logic** with modular architecture
-- ✅ Automated **linting and unit testing pipelines**, reducing manual review effort by **20%**
-- ✅ Reviewed **15+ pull requests** ensuring API security, consistency, and code quality
-- ✅ Collaborated in **agile sprints** to accelerate feature delivery
 
-### 🔹 Data Science Trainee
-**Shape My Skills Pvt. Ltd.** | Lucknow, Uttar Pradesh | *Jul 2025 – Aug 2025*
+# 🛠 Tech Stack
 
-- ✅ Completed **90+ hours** of intensive training in ML and analytics
-- ✅ Performed data preprocessing, feature extraction, and model evaluation
-- ✅ Trained **CNN-based classifiers** using TensorFlow and Keras
-- ✅ Evaluated models using precision, recall, F1-score, and confusion matrices
-- ✅ Delivered an AI solution in a 4-member team under strict timelines
+## 💻 Frontend
+
+<p>
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
 ---
 
-## 🏗️ What I Build
+## ⚙️ Backend
 
-```text
-React + Tailwind CSS         ──▶  Modern, responsive UIs
-FastAPI                      ──▶  High-performance async microservices
-PostgreSQL                   ──▶  Relational data modeling
-RAG + LangChain              ──▶  Production AI pipelines
-```
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Django_REST_Framework-ff1709?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
 
 ---
 
-## 🏆 Achievements & Certifications
+## ⚡ Real-Time & Integrations
 
-🥇 **Oracle Cloud Infrastructure (OCI) Generative AI Certified Professional (2025)**  
-   *LLM deployment, prompt engineering, and cloud AI workflows*
+<p>
+<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/Webhooks-FF6B6B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Stripe_API-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+</p>
 
-🥈 **Secured Rank 19 / 1,090** in AnaVerse 2.0 anomaly detection competition
+---
 
-🥉 **Ranked in Top 50 / 3,000+** at HackerEarth x Snowflake AI-for-Tourism Hackathon
+## 🗄 Databases
 
-📜 **HackerRank SQL Certification** – Advanced joins, subqueries, and analytics
+<p>
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+</p>
 
-📜 **HackerRank Python Certification** – Data processing using Pandas and NumPy
+
+---
+
+
+# Experience
+
+## Software Engineer Intern  
+**XRG Consulting Pvt. Ltd. — Hyderabad**  
+Sep 2025 – Nov 2025
+
+- Built **10+ REST API endpoints** using Python, Django, and Django REST Framework
+- Reduced API response time by **~25%** through database query optimization
+- Implemented **CI/CD pipelines**, reducing manual deployment steps by **~40%**
+- Debugged backend services in a **microservices production environment**
+
+
+---
+
+
+# Achievements
+
+- 🏅 **Oracle Cloud Infrastructure Generative AI Professional (2025)**
+- 🏆 **Rank 19 / 1,090 — AnaVerse 2.0 Kaggle Competition**
+- 🥈 **Top 50 / 3,000+ teams — HackerEarth × Snowflake Hackathon**
+- 📜 **HackerRank SQL & Python Certifications**
+- 🎓 **Webmaster — ACM Student Chapter BBDITM**
+- 🌍 **GirlScript Summer of Code 2025 — Open Source Contributor**
+- 💻 **Solved 500+ Data Structures & Algorithms problems on LeetCode**
 
 ---
 
