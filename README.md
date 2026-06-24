@@ -1,15 +1,16 @@
-# Hi, I'm Sneha 👋
+<h1 align="center">Hi, I'm Sneha 👋</h1>
 
-::: {align="center"}
-### **Backend Engineer \| MERN Stack Developer \| Django REST Framework \| FastAPI**
+<h3 align="center">
+Backend Engineer • MERN Stack • Django REST Framework • FastAPI
+</h3>
 
-*Building scalable APIs, secure backend services, and production-ready
-web applications.*
+<p align="center">
+Building scalable APIs, secure backend services, and production-ready applications.
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sneha1309)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zeny1303)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snehakashyap9920@gmail.com)
-:::
 
 ------------------------------------------------------------------------
 
@@ -126,20 +127,15 @@ OOP • TCP/IP
 
 # 📈 GitHub Analytics
 
-```{=html}
+<h2 align="center">📊 GitHub Analytics</h2>
+
 <p align="center">
-```
-`<img src="https://github-readme-streak-stats.herokuapp.com/?user=Zeny1303&theme=tokyonight&hide_border=true"/>`{=html}
-```{=html}
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Zeny1303&theme=tokyonight&hide_border=true" />
 </p>
-```
-```{=html}
+
 <p align="center">
-```
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=Zeny1303&theme=tokyo-night&hide_border=true&area=true"/>`{=html}
-```{=html}
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zeny1303&theme=tokyo-night&hide_border=true&area=true" />
 </p>
-```
 
 ------------------------------------------------------------------------
 
